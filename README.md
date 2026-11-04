@@ -28,4 +28,3 @@
 Adds airborne mechanized infantry and airborne light tank battalions using vanilla equipment. Research paratroopers and the relevant equipment technology, then use the free decisions to unlock the battalions. Design divisions yourself and use the existing transport aircraft and paradrop rules.
 
 Target: Hearts of Iron IV **1.19.4.1**. In-game behavior and compatibility have not yet been verified. Install by creating a local mod in the Paradox Launcher, copying this repository's contents into its mod folder, and enabling it in a playset.
-

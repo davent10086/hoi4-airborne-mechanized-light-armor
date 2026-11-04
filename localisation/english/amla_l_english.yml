@@ -1,0 +1,10 @@
+﻿l_english:
+ amla_airborne_category: "Airborne Armored Forces"
+ amla_unlock_mechanized: "Organize Airborne Mechanized Infantry"
+ amla_unlock_mechanized_desc: "Adapt mechanized infantry for airborne deployment. Requires paratroopers and mechanized infantry."
+ amla_unlock_tanks: "Organize Airborne Light Armor"
+ amla_unlock_tanks_desc: "Adapt light tanks for airborne deployment. Requires paratroopers and light tank technology."
+ amla_airborne_mechanized: "Airborne Mechanized Infantry"
+ amla_airborne_mechanized_desc: "Mechanized infantry trained and equipped for airborne operations."
+ amla_airborne_light_tank: "Airborne Light Tank"
+ amla_airborne_light_tank_desc: "Light armor adapted for airborne operations."

@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ amla_airborne_category: "空降装甲部队"
+ amla_unlock_mechanized: "组建空降机械化步兵"
+ amla_unlock_mechanized_desc: "为机械化步兵组织空降训练。需要空降兵及机械化步兵科技。"
+ amla_unlock_tanks: "组建空降轻型装甲部队"
+ amla_unlock_tanks_desc: "为轻型坦克部队组织空降训练。需要空降兵及轻型坦克科技。"
+ amla_airborne_mechanized: "空降机械化步兵营"
+ amla_airborne_mechanized_desc: "接受空降训练的机械化步兵。"
+ amla_airborne_light_tank: "空降轻型坦克营"
+ amla_airborne_light_tank_desc: "适用于空降作战的轻型坦克部队。"

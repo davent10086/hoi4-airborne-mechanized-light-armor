@@ -1,0 +1,20 @@
+amla_airborne_category = {
+ amla_unlock_mechanized = {
+  icon = generic_prepare_civil_war
+  cost = 0
+  fire_only_once = yes
+  visible = { has_tech = paratroopers }
+  available = { has_tech = paratroopers has_tech = mechanised_infantry }
+  complete_effect = { unlock_subunit = amla_airborne_mechanized }
+  ai_will_do = { factor = 0 }
+ }
+ amla_unlock_tanks = {
+  icon = generic_prepare_civil_war
+  cost = 0
+  fire_only_once = yes
+  visible = { has_tech = paratroopers }
+  available = { has_tech = paratroopers OR = { has_tech = gwtank_chassis has_tech = gwtank } }
+  complete_effect = { unlock_subunit = amla_airborne_light_tank }
+  ai_will_do = { factor = 0 }
+ }
+}

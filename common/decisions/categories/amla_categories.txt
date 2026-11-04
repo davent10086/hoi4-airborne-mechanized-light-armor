@@ -1,0 +1,3 @@
+amla_airborne_category = {
+ icon = generic_prepare_civil_war
+}
