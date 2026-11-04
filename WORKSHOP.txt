@@ -1,3 +1,3 @@
-空降机械化与轻型装甲 / Airborne Mechanized and Light Armor
+空降机械化与轻型装甲
 新增可通过决议解锁的空降机械化步兵营和空降轻型坦克营，使用原版装备。需要空降兵及对应装备科技。目标版本：1.19.4.1。兼容性和游戏内表现尚待验证。
 Adds decision-unlocked airborne mechanized infantry and airborne light tank battalions using vanilla equipment. Requires paratroopers and the relevant equipment technology. Target version: 1.19.4.1. Runtime behavior and compatibility remain unverified.
